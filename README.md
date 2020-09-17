@@ -4,7 +4,7 @@ ASD-Updater is an update automation tool to notify users of upcoming server upda
 ​
 ## Installation
 ​
-Use PowerShell CLI [MS PS](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7) to execute the ASD-ACN Checker.
+Use PowerShell CLI [MS PS](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7) to execute the ASD-Updater.
 ​
 ```PowerShell
 PowerShell -executionpolicy Bypass -File updateNotifyScript.ps1
